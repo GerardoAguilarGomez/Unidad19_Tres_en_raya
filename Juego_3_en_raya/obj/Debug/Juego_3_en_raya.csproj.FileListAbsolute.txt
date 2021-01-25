@@ -1,0 +1,10 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\bin\Debug\Juego_3_en_raya.exe.config
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\bin\Debug\Juego_3_en_raya.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\bin\Debug\Juego_3_en_raya.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.Form1.resources
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.Properties.Resources.resources
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.csproj.GenerateResource.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Unidad19_Tres_en_raya\Juego_3_en_raya\obj\Debug\Juego_3_en_raya.pdb
